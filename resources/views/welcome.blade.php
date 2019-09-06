@@ -58,6 +58,17 @@
                 text-transform: uppercase;
             }
 
+            .subtitle {
+                color: #636b6f;
+                padding: 0 25px;
+                font-size: 21px;
+                font-weight: 600;
+                letter-spacing: .1rem;
+                text-decoration: none;
+                text-transform: uppercase;
+
+            }
+
             .m-b-md {
                 margin-bottom: 30px;
             }
@@ -84,7 +95,7 @@
                     Soon™
                 </div>
 
-                <div class="links">
+                <div class="subtitle">
                     A Laravel app made with ReactJS and hosted on Microsoft Azure
                 </div>
             </div>
